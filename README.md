@@ -1,8 +1,8 @@
-<a href="https://ultimateangular.com" target="_blank"><img src="https://ultimateangular.com/assets/img/banners/ua-github.svg"></a>
+<a href="https://ultimatecourses.com" target="_blank"><img src="https://ultimatecourses.com/static/banners/ultimate-angularjs-leader.svg"></a>
 
 # Ultimate Angular: Angular 1.x Performance Source code
 
-Source code for Ultimate Angular 1.x [Performance Course](https://ultimateangular.com).
+Source code for Ultimate Angular 1.x [Performance Course](https://ultimatecourses.com/learn/angularjs-performance).
 
 ### Running these projects
 
